@@ -5,7 +5,7 @@ This is a source-based customization of the supplied portfolio project. The orig
 ## Profile
 - IIT Patna — Metallurgical & Materials Engineering
 - Software Development / C++ / Python / DSA
-- Codeforces 1400+
+- Codeforces 1500+
 - Research Intern — Dr. Nitish Raja
 - Capstone — 2.5MgPSZ, 4YSZ and 10CaSZ
 
